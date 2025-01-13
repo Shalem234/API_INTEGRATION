@@ -1,1 +1,15 @@
 # API_INTEGRATION
+
+**COMPANY** : CODTECH IT SOLUTIONS
+
+**NAME** : SESHAM SHALEM RAJ
+
+**INTERN ID** : CT6WDPJ
+
+**DOMAIN** : PYTHON
+
+**BATCH DURATION** : DECEMBE 5th,2024 to JANUARY 20th,2025
+
+# OUTPUT OF THE TASK
+
+![Screenshot (5)](https://github.com/user-attachments/assets/146a7c46-001c-499c-aa40-393c612b46d2)
